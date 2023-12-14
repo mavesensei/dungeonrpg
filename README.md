@@ -9,3 +9,9 @@ It has:                                      It doesn't has:
 +Four different mobs                         -Different places(rooms)
                                              
 Like I mention it earlier that's a sample, I will add the map, story, battles while healing, inventory system too.
+
+(the ascii arts doesn't belongs to me, i found while a little surf on internet)
+(sword's ascii art creator is anonymous)
+(bow and arrow's ascii art creator is b'ger)
+(wand's ascii art creator is Row)
+(campfire's ascii art creator is anonymous)
