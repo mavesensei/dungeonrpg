@@ -13,6 +13,7 @@ Its a sample for coding an text based rpg game, it has three type of class, leve
 -While you healing(wait) mobs doesn't attacks you.<br>
 -Inventory system<br>
 -Different places(rooms)<br>
+-Save/Load system
 
 Like I mention it earlier that's a sample, I will add the map, story, battles while healing, inventory system too.
 
