@@ -18,7 +18,7 @@ Its a sample for coding an text based rpg game, it has three type of class, leve
 
 Like I mention it earlier that's a sample, I will add the map, story, inventory system too.
 
-# Honorable Mentions<br<
+# Honorable Mentions<br>
 (the ascii arts doesn't belongs to me, i found while a little surf on internet)<br>
 (sword's ascii art creator is anonymous)<br>
 (bow and arrow's ascii art creator is b'ger)<br>
